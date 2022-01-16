@@ -12,6 +12,8 @@
     "test": "echo \"No test specified\""
   },
   "dependencies": {
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@fortawesome/react-fontawesome": "^0.1.16",
     "csv-parse": "^4.15.3",
     "csv-string": "^4.0.1",
     "prismjs": "^1.23.0",
